@@ -1,6 +1,6 @@
 ## Time Tracker Application
 
-The Time Tracker App is a Java application designed to help users track and manage their time spent on tasks, including task names, dates, and durations. Built using Java, JavaFX, and SQLite, it offers a lightweight and efficient solution for storing and managing task data locally, while providing a user-friendly interface for easy interaction. This README provides an overview of the project structure, functionalities, and how to set up and run the app.
+The Time Tracker App is a Java application designed to help users track and manage their time spent on tasks, including task names, dates, and durations. Built using JavaFX, and SQLite, it offers a lightweight and efficient solution for storing and managing task data locally, while providing a user-friendly interface for easy interaction. This README provides an overview of the project structure, functionalities, and how to set up and run the app.
 
 ## Getting Started Before you begin, ensure you have the following:
 
