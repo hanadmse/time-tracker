@@ -24,11 +24,10 @@ Usage and Features
 
 1.) Launch the application and use it to: 
 
-2.) Add new tasks, providing task names, dates, and durations. 
+2.) Add new tasks, providing task names, dates, and durations. This can be entered in real-time using a timer that has start, pause, resume, and stop to track the duration. In addition, there
+is an option to add details related to past events as well.
 
-3.) Use start, pause, resume and stop timer to track the duration of real-time entry tasks.
-
-4.) Enter relevant information in regards to previous event entries.4.) View, search, and manage submitted tasks. 
+3.) After submission, there are options to either view the submissions in totality or search for specific tasks based on details. The search allows user to search by keywords such task name, date, and duration. 
 
 5.) Use the navigation buttons within the app to switch between different views.
 
