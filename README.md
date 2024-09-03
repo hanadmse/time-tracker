@@ -1,6 +1,6 @@
 Time Tracker Application
 
-The Time Tracker App is a Java application designed to help users track and manage their time spent on tasks and includes information related to task names, dates, and durations. This README provides an overview of the project structure, functionalities, and how to set up and run the app.
+The Time Tracker App is a Java application designed to help users track and manage their time spent on tasks and tracks information related to task names, dates, and durations. This README provides an overview of the project structure, functionalities, and how to set up and run the app.
 
 Getting Started Before you begin, ensure you have the following:
 1.) Java Development Kit (JDK) installed.
