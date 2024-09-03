@@ -11,6 +11,7 @@ Getting Started Before you begin, ensure you have the following:
 3.) SQLite3 database engine.
 
 Installation 
+
 1.) Clone this repository to your local machine using Git
 
 2.) Open the project in your Java IDE. 
@@ -20,6 +21,7 @@ Installation
 4.) Set up the SQLite3 database.
 
 Usage and Features 
+
 1.) Launch the application and use it to: 
 
 2.) Add new tasks, providing task names, dates, and durations. 
@@ -31,6 +33,7 @@ Usage and Features
 5.) Use the navigation buttons within the app to switch between different views.
 
 Project Structure The project is structured as follows:
+
 1.) src/application: Contains the Java code for the application.
 
 2.) src/application/resources: Contains the FXML files for the user interface.
